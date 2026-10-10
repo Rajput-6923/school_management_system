@@ -1,0 +1,9 @@
+{
+  "name": "EduFlow - School Management System",
+  "description": "School administration platform for students, teachers, classes, attendance, exams, fees, timetable, and notices, backed by PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
